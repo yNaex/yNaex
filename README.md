@@ -20,6 +20,7 @@ Da área elétrica trago responsabilidade, atenção a detalhes e hábito de seg
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 - Lógica de programação e algoritmos
 - Segurança da informação (confidencialidade, integridade, disponibilidade, criptografia, gestão de riscos)
@@ -39,5 +40,4 @@ Conseguir uma **vaga de estágio em tecnologia em Brasília**, de preferência e
 
 ## 📫 Contato
 
-- LinkedIn: _adicione o link do seu perfil_
-- E-mail: _adicione seu e-mail profissional_
+- E-mail:Gustavokaua90@gmail.com
